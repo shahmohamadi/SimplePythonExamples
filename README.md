@@ -1,3 +1,3 @@
 # SimplePythonExamples
 
-Here are some simple codes for practicing python
+Here are some simple codes for practicing python.
