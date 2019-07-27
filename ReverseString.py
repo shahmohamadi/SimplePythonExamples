@@ -15,4 +15,4 @@ def reverse_str_v2(s):
 
 input_str = input("give me a string:\n")
 reverse = reverse_str_v1(input_str)
-print(reverse)
+print("\n", reverse)
