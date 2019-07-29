@@ -1,5 +1,4 @@
-# basic read write methods for files
-
+# basic read/write methods for files
 my_file = open('Sample.txt', 'r')
 data = my_file.read()
 print(data)
